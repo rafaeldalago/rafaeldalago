@@ -1,16 +1,30 @@
-### Hi there 👋
+# Hi! I'm Rafael.
+<a href="https://www.linkedin.com/in/rafael-dalago/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="90" />
+</a>
 
-<!--
-**rafaeldalago/rafaeldalago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br />
+<br />
 
-Here are some ideas to get you started:
+As an ambitious programmer, I focus on developing efficient solutions. With experience in `Javascript`, `Node.js`, `MongoDB`, `Ruby on Rails`, `React.js`, and `React Native`, I bring a diverse skill set to the table.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My love for programming and logical thinking sparked at a young age and has been the driving force behind my career. I find great satisfaction in structuring databases and crafting front-end and back-end architectures. When I bring together my technical expertise and logical understanding, I aim to create code that's not just clean, but also scalable and easy to maintain.
+
+In addition to my technical abilities, I am fluent in `Portuguese`, `English`, and `French`. This multilingual proficiency gives me the flexibility to work on international projects and navigate different cultural contexts seamlessly.
+<br />
+<br />
+
+```javascript
+const qualifications = [
+    'Javascript',
+    'React.js',
+    'React Native',
+    'Node.js',
+    'MongoDB',
+    'Ruby on Rails',
+    'Full Stack Development',
+    'Git',
+    'Material UI',
+    'Tailwind'
+];
+```
