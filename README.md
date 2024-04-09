@@ -6,7 +6,7 @@
 <br />
 <br />
 
-As an ambitious programmer, I focus on developing efficient solutions. With experience in `Javascript`, `Node.js`, `MongoDB`, `Ruby on Rails`, `React.js`, and `React Native`, I bring a diverse skill set to the table.
+As an ambitious programmer, I focus on developing efficient solutions. With experience in `Typescript`, `Node.js`, `MongoDB`, `Ruby on Rails`, `React.js`, and `React Native`, I bring a diverse skill set to the table.
 
 My love for programming and logical thinking sparked at a young age and has been the driving force behind my career. I find great satisfaction in structuring databases and crafting front-end and back-end architectures. When I bring together my technical expertise and logical understanding, I aim to create code that's not just clean, but also scalable and easy to maintain.
 
@@ -15,15 +15,14 @@ In addition to my technical abilities, I am fluent in `Portuguese`, `English`, a
 <br />
 
 ```javascript
-const qualifications = [
-    'Javascript',
+const skills = [
+    'Typescript',
     'React.js',
     'React Native',
     'Node.js',
     'MongoDB',
     'Ruby on Rails',
     'Full Stack Development',
-    'Git',
     'Material UI',
     'Tailwind'
 ];
